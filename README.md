@@ -1,2 +1,3 @@
 # juego1
-quien gana se lleva u842427389052598243
+link de la pagina: 
+https://jco17.github.io/juego-de-circulos/
